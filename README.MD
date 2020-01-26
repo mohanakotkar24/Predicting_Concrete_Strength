@@ -1,6 +1,7 @@
 Project: To Predict the Concrete Strength 
 
-Summary:
+<u><b>Summary:</b><u>
+
 1.Performed Basic Data Analysis
 
 2.Exploratory Data Analysis
